@@ -6,6 +6,9 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="PuppeteerSharp" Version="4.0.0" />
+        <PackageReference Include="PuppeteerSharp.Contrib.Extensions" Version="4.0.0" />
+        <PackageReference Include="PuppeteerSharp.Contrib.Should" Version="4.0.0" />
         <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
     </ItemGroup>
 
